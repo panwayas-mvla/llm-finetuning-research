@@ -10,6 +10,7 @@ Information: Same code as huggingface would describe
   journal={arXiv preprint arXiv:2110.14168},
   year={2021}
 }
+
 -------------------------------------------------------------------------------------------------------
 BibTeX Citation for Facebook ResponsibleNLP HolisticBias dataset v1.1:
 Information: 769 descriptors when `--use-small-set` is not explicitly stated, in that case, there are less than 100 descriptors iterated through. Append `--dataset version v1.1` to state which version is used. Dataset comprises 4 .json files descriptors.json, nouns.json, sentence_templates.json, and standalone_noun_phrases.json. Steps to download a dataset are shown in the README.md file in holistic_bias. 
